@@ -8,8 +8,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
-public class StudentApplication implements MyOperation { // this is an implementation class inherited from class
-                                                         // myOperation
+public class StudentApplication implements MyOperation { // this is an implementation class  from myOperation
+                                                         
 
    public void enter() {
       FileWriter out = null;

@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 
-public interface MyOperation { // this is an interface class which includes all the abstract methods
+public interface MyOperation { // this is an interface which includes all the abstract methods
  
     public abstract void enter() throws IOException; // Enters the content to the file
    

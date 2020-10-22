@@ -1,0 +1,4 @@
+Student ID                 : 121443554
+Student name               : JOSNA
+Student course             : Msc
+Student Subject Preference : IS
